@@ -1,2 +1,5 @@
 # Resume-Builder
-A resume builder is an interactive online tool or piece of software that offers different resume templates and allows users to create a resume quickly and easily
+
+
+this is a basic Resume Builder developed using HTML,CSS,JS
+### URL : https://resu-maker.netlify.app/
